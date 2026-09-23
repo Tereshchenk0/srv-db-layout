@@ -52,4 +52,3 @@ Table Order_Items {
 Ref: Orders.id < Order_Items.order_id
 Ref: Products.id < Order_Items.product_id
 
-// build test
