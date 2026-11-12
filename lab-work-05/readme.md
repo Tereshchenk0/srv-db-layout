@@ -15,7 +15,7 @@
 * `lab_5_commit.sql` — демонстрація збереження змін за допомогою `COMMIT`.
 * `lab_5_rollback.sql` — демонстрація скасування змін за допомогою `ROLLBACK`.
 * `lab_5_index.sql` — створення індексу `idx_users_name` для таблиці `Users`.
-* `4_business_transaction.sql` — реалізація атомарної бізнес-транзакції оформлення замовлення (`Orders`, `Order_Items`, `Products`).
+* `lab_5_complex_transaction.sql` — реалізація атомарної бізнес-транзакції оформлення замовлення (`Orders`, `Order_Items`, `Products`).
 * `5_explain_analysis.md` — порівняльний аналіз планів виконання запиту (`EXPLAIN`) до та після індексації.
 
 ---
